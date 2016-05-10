@@ -1,0 +1,23 @@
+Route 1
+,Aircraft,777
+,No routes found within aircraft range
+,Suggested aircraft,MD11
+
+Route 2
+,Fuel price,€21212.04063718299
+,Aircraft,A330
+,SNN,SIN,CDG,ORK,MAN,SNN
+,SNN,SIN,MAN,ORK,CDG,SNN
+,SNN,SIN,MAN,CDG,ORK,SNN
+,SNN,SIN,CDG,MAN,ORK,SNN
+
+Route 3
+,Fuel price,€14141.177026032074
+,Aircraft,737
+,BOS,ORD,ATL,DFW,SFO,BOS
+
+Route 4
+,Fuel price,€20957.086798268152
+,Aircraft,MD11
+,ORK,WAS,BOM,MEL,BOM,DUB,ORK
+
